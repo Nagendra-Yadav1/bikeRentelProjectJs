@@ -1,0 +1,14 @@
+{
+    "mohit22@navgurukul.org": {
+        "password": "Na82997@",
+        "bikes": {
+            "Normal": 18,
+            "Super": 10,
+            "Activa": 34
+        },
+        "cars": {
+            "Normal": 40,
+            "Super": 10
+        }
+    }
+}
